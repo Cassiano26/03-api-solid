@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/Cassiano26/03-api-solid#readme",
   "dependencies": {
-    "fastify": "5.2.1"
+    "dotenv": "16.4.7",
+    "fastify": "5.2.1",
+    "zod": "3.24.2"
   },
   "devDependencies": {
     "@types/node": "22.13.5",
